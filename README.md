@@ -18,6 +18,9 @@ In this Pre lab we will create a 1 bit adder with simple functionality.
 | 1 | 1 | 0 |  1   | 0 |
 | 1 | 1 | 1 |  1   | 1 |
 
+Boolean equation: Sum= Anot*Bnot*C + Anot*B*Cnot + A*Bnot*Cnot + A*B*C
+
+Cout= B*C + A*C + A*B
 
 # Full adder schematic
 
