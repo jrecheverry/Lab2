@@ -29,6 +29,6 @@ This schematic for a full adder matches my truth table above. the inputs A and B
 This picture of a full adder demonstrates the interface with the inputs and outputs. notice that there are three inputs and two outputs.
 
 # full adder Testbench Output
-![test bench output](_)
+![test bench output](https://raw2.github.com/jrecheverry/Lab2/master/Lab_2/Lab2_JRE/1bitadder_testbench.PNG)
 
 This testbench of the full adder verifies my truth table above. I did not run into any errors when running the simulaiton.
