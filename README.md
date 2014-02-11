@@ -34,6 +34,6 @@ This picture of a full adder demonstrates the interface with the inputs and outp
 This testbench of the full adder verifies my truth table above. I did not run into any errors when running the simulaiton.
 
 # Main Lab
-For the main lab, we are tasked with creating a 4 bit adder that is capable of adding/subtracting and self=checking for over flow.
+For the main lab, we are tasked with creating a 4 bit adder that is capable of adding/subtracting and self-checking for over flow.
 
 
