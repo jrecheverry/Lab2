@@ -39,4 +39,12 @@ This testbench of the full adder verifies my truth table above. I did not run in
 # Main Lab
 For the main lab, we are tasked with creating a 4 bit adder that is capable of adding/subtracting and self-checking for over flow.
 
+#Process
+I was unable to complete a successful subtractor or overflow check for the four bit adder. The addition took a majority of the time due to getting used to the program. It was difficult to understand how to translate the knowledge of the device to actual coding. However, I am giving it additional hours to familiarize myself with the concepts.
+
+#Testbench of four bit adder
+My actual test bench output worked at first but I tampered with the code and could not figure out how to get it back to normal.
+
+#Error 
+As I stated earlier, I was unable to completely familirize myself with the program language and as a consequence, could not fully complete the lab. There was error in the testbench that ultimately would not allow me to progress because I could not figure out what went wrong.
 
