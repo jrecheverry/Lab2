@@ -1,0 +1,13 @@
+#Inputs
+
+NET "A" LOC = "K17"; #Type = Input, Switch name = SW3
+NET "B" LOC = "K18"; #Type = Input, Switch name = SW2 
+NET "C" LOC = "H18"; #Type = Input, Switch name = SW1
+NET "D" LOC = "G18"; #Type = Input, Switch name = SW0 
+
+#LED output constraints (outputs)
+
+NET "W" LOC = "K14"; #Type = Output, LED name =LD3
+NET "X" LOC = "K15"; #Type = Output, LED name = LD2
+NET "Y" LOC = "J15"; #Type = Output, LED name = LD1
+NET "Z" LOC = "J14"; #Type = Output, LED name = LD0
